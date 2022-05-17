@@ -1,6 +1,7 @@
 
 {
   "name": "bot",
+  "repository: "https://github.com/infotechIT/IMDb_bot-1"
   "env": {
     "BOT_TOKEN": {
       "description": "Enter bot token.",
