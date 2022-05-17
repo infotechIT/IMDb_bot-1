@@ -20,7 +20,7 @@ logger = logging.getLogger(__name__)
 list = ['558c75c8', '558c75c8']
 
 def start(update, context):
-    update.message.reply_text('Hi! \nWelcome to the *IMDb Bot*. \nSend me the name of any movie or TV show to get its details. \nHappy viewing! \n \nCreated by [Karan Malik](https://karan-malik.github.io)',parse_mode='markdown')
+    update.message.reply_text('Hi! \nWelcome to the *IMDb Bot*. \nSend me the name of any movie or TV show to get its details. \nHappy viewing! \n \nCreated by [InfoTech](https://t.me/infotechIT)',parse_mode='markdown')
 
 
 def help(update, context):
